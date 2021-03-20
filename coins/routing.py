@@ -1,5 +1,5 @@
 from django.urls import path
-from .consamers import CoinsConsumer
+from .consumers import CoinsConsumer
 
 
 
