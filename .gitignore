@@ -1,0 +1,12 @@
+*.pyc
+*~
+__pycache__
+__pycache__/
+**/__pycache__/
+env/
+.idea/
+**/migrations/
+media/
+logs/
+static/
+.env
